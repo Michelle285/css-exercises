@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  
 }
 
 .header {
@@ -42,7 +41,6 @@ body {
   padding: 16px;
   margin: 16px;
   width: 300px;
-
 }
 
 .container {
@@ -54,7 +52,6 @@ body {
   display: flex;
   padding: 32px;
   flex-wrap: wrap;
-
 }
 
 a {
